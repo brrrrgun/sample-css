@@ -1,0 +1,45 @@
+*{box-sizing: border-box}
+body {
+    background-color: rgb(13,17,23);
+    background-position: 2px;
+}
+h1 {
+   color: white;
+   font-size: 30px;
+   margin-left: 110px;
+}
+.form-label {
+   margin-left: 50px;
+   color: white;
+   display: block;
+}
+
+.form-box {
+   width: 400px;
+   background-color: rgb(22,27,34);
+}
+
+.form-signin {
+   color: White;
+   background-color: rgb(35,134,54);
+   border-color: rgb(35,134,54);
+   white-space: nowrap;
+   border-radius: 6px;
+   margin-left: 50px;
+   margin-top: 10px;
+   font-size: 14px;
+   padding: 0.5em;
+   line-height: 20px;
+   width: 300px;
+}
+
+.form-input {
+   color: White;
+   margin-top: 7px;
+   margin-bottom: 7px;
+   background-color: rgb(13,17,23);
+   margin-left: 50px;
+   font-size: 14px;
+   width: 300px;
+   box-shadow:none;
+}
